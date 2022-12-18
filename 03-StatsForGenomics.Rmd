@@ -135,12 +135,8 @@ data point in the population and $n$ is the population size. However, when we on
 underestimates the population variance, so we make a small adjustment when we
 calculate the sample variance, denoted as $s^2$: 
 
-$$
-\begin{aligned}
-s^2=\sum_{i=1}^n \frac{(x_i-\overline{X})^2}{n-1} && \text{ where $x_i$ is the ith data point and
-$\overline{X}$ is the sample mean.}
-\end{aligned}
-$$
+$s^2=\sum_{i=1}^n \frac{(x_i-\overline{X})^2}{n-1}$ where $x_i$ is the ith data point and
+$\overline{X}$ is the sample mean.
 
 
 The sample standard deviation is simply the square root of the sample variance, $s=\sqrt{\sum_{i=1}^n \frac{(x_i-\overline{X})^2}{n-1}}$.
