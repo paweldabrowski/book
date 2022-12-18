@@ -734,7 +734,7 @@ __Want to know more?__
 
 
 ## Visualization and data repositories for genomics
-There are ~100 animal genomes sequenced as of 2016. On top these, there are many
+There are ~100 animal genomes sequenced as of 2016. On top of these, there are many
 research projects from either individual labs or consortia that 
 produce petabytes of auxiliary genomics data, such as ChIP-seq, RNA-seq, etc. \index{ChIP-seq}  \index{RNA-seq}
 
